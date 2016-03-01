@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pterentiafripho01greegoog/pterentiafripho01greegoog_0157.png"; bbox 0 0 3409 5050; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1286 3343 1890 3420">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1286 3343 1890 3420">
+     <span class='ocr_line' id='line_1_1' title="bbox 1286 3343 1890 3420; baseline -0.003 -21"><span class='ocrx_word' id='word_1_1' title='bbox 1286 3343 1394 3399; x_wconf 91' lang='lat' dir='ltr'>XV</span> <span class='ocrx_word' id='word_1_2' title='bbox 1415 3374 1495 3386; x_wconf 94' lang='lat'>—</span> <span class='ocrx_word' id='word_1_3' title='bbox 1516 3343 1719 3400; x_wconf 83' lang='lat' dir='ltr'>VERSE</span> <span class='ocrx_word' id='word_1_4' title='bbox 1761 3361 1890 3420; x_wconf 85' lang='lat'>591.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 693 1314 2482 3144">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 693 1314 2482 3144">
+     <span class='ocr_line' id='line_1_2' title="bbox 693 1314 2482 3144; textangle 180"><span class='ocrx_word' id='word_1_5' title='bbox 693 1314 2482 3144; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
